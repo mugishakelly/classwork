@@ -1,0 +1,53 @@
+body{
+	background-color: black;
+
+}
+.gemDiv h1{
+color: aliceblue;
+text-decoration: underline;
+margin-left: 27%;
+margin-top: 10%;
+}
+.gemDiv input{
+	margin-left: 33%;
+	height: 35px;
+	width: 17%;
+	border: none;
+	border-radius: 20px;
+}
+#dialogboxhead{
+	margin-left: 25%;
+	font-weight: bolder;
+}
+#dialogoverlay{
+	height: auto;
+	padding: 30px;
+	background-color:rgb(61, 108, 238);
+	width: 35%;
+	margin-left: 23%;
+	margin-top: 2%;
+}
+#dialogboxbody{
+	height: auto;
+	width: 90%;
+	padding: 100px 5px;
+	margin-left: 5%;
+	margin-top: 2%;
+	color: black;
+	background-color: rgb(250, 248, 250);
+	word-break: break-all;
+}
+#dialogboxfoot{
+	margin-left: 44%;
+	margin-top: 2%;
+}
+.gemDiv button{
+	border: none;
+	width: 8%;
+	height: 25px;
+	border-radius: 20px;
+	background: linear-gradient(rgb(250, 248, 250) 40%,rgb(61, 108, 238) 70%);
+	margin-left: 37%;
+}
+
+
